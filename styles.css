@@ -73,3 +73,22 @@ html, body, #container {
     color: #3bbef3;
     border-color: #3bbef3;
 }
+
+.menu-top a:hover {
+    transition: color 0.2s;
+    color: #3bbef3;
+    border-color: #3bbef3;
+}
+
+.menu-top a{
+    color: #fff;
+    font-size: 18px;
+    text-decoration: none;
+}
+
+.menu-top {
+    padding-top: 10px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
