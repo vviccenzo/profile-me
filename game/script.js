@@ -33,5 +33,5 @@ document.addEventListener("keydown", function (event) {
 });
 
 function mudarPagina(){
-    window.location = "bootcamp-profile-euax/game/index.html";
+    window.location.href = "https://vviccenzo.github.io/bootcamp-profile-euax/";
 }
