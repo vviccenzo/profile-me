@@ -5,7 +5,7 @@
 }
 
 .container {
-    background-color: #141533;
+    background-color: #333b30;
 }
 
 button {
@@ -26,7 +26,7 @@ button {
     border-radius: 10px;
     display: flex;
     flex-direction: column;
-    background-color: #292a48;
+    background-color: #172014;
 }
 
 .form {
@@ -43,7 +43,7 @@ button {
 }
 
 .form > p {
-    color: #c4c4c4;
+    color: #ffffff;
     font-size: 18px;
     text-align: center;
     margin-bottom: 50px;
@@ -72,7 +72,7 @@ button {
 }
 
 .form-input:focus {
-    border: 3px solid #3182ce;
+    border: 3px solid #64e275;
 }
 
 .form-button {
@@ -88,5 +88,20 @@ button {
    }
 
 .form-button::hover{
-    background-color: #37a53c;
+    background-color: #5c725d;
 }
+
+.footer {
+    padding: 10px;
+    background-color: #202020;
+    color: white;
+    text-align: center;
+    font-size: 18px;
+}
+
+.container  img {
+    border-radius: 50%;
+    width: 69px;
+    height: 69px;
+}
+
