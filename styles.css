@@ -6,8 +6,8 @@
 }
 
 body {
-    background-color: #333;
-    color: #fff;
+    background-color: rgb(0, 0, 0);
+    color: rgb(255, 255, 255);
     font-family: "Source Sans Pro";
 }
 
@@ -31,7 +31,7 @@ html, body, #container {
     width: 400px;
     height: 400px;
     border-radius: 50%;
-    border: 5px solid #3bbef3;
+    border: 5px solid #857e7e;
 }
 
 #container h1 {
@@ -70,14 +70,14 @@ html, body, #container {
 
 #container .links a:hover {
     transition: color 0.2s;
-    color: #3bbef3;
-    border-color: #3bbef3;
+    color: #a3a3a3;
+    border-color: #3d3d3d;
 }
 
 .menu-top a:hover {
     transition: color 0.2s;
-    color: #3bbef3;
-    border-color: #3bbef3;
+    color: #a3a3a3;
+    border-color: #3d3d3d;
 }
 
 .menu-top a{
